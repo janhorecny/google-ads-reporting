@@ -1,0 +1,8 @@
+# Tajné údaje
+google-ads.yaml
+client_secret*.json
+*.env
+.env*
+
+# macOS
+.DS_Store
